@@ -106,10 +106,10 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 <div id="header" align="center">
   <br />
-  <b>:rocket:</b>
-  <b>
+  <h1>
+    :rocket:<br />
     <a href="https://www.linkedin.com/in/philsonnah/">
       hire me today!
-    </b>
+    </h1>
   </h3>
 </div>
