@@ -86,6 +86,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 <div id="header" align="center">
+  <br />
   <h3>:rocket:</h3>
   <h3>
     <a href="https://www.linkedin.com/in/philsonnah/" target="_blank">
