@@ -88,8 +88,6 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
   <!-- AdobeXD -->            
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" height="40"/>&nbsp;
-  <!-- VScode -->              
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" height="40"/>
 </div>
 
 ---
@@ -108,10 +106,10 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 <div id="header" align="center">
   <br />
-  <h3>:rocket:</h3>
-  <h3>
+  <b>:rocket:</b>
+  <b>
     <a href="https://www.linkedin.com/in/philsonnah/">
       hire me today!
-    </a>
+    </b>
   </h3>
 </div>
