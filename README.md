@@ -46,7 +46,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Actively exploring, learning, and building smart contracts and decentralized applications on various blockchains. 
 
-- :zap: In my free time, I do projects on Buildspace, study with LearnWeb3, enjoy photography, and lift weights at the gym! 
+- :zap: In my free time, I do projects on Buildspace, study with LearnWeb3, enjoy photography, and lifting weights! 
 
 - :mailbox: How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philsonnah/)
 
@@ -73,13 +73,23 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### :ship: What I Can Do :
+- [Build a Blockchain Business](https://github.com/AzureKn1ght/WhizPlatform)
+- [Code DeFi Stake/Trade Bots](https://github.com/AzureKn1ght/AXS-Restake)
+- [Launch an NFT Collection](https://github.com/AzureKn1ght/NFT-Collection)
+- [Decentralized Exchanges](https://github.com/AzureKn1ght/Defi-Exchange)
+- [Write Solana Programs](https://github.com/AzureKn1ght/Web3-Solana-Dapp)
+- [Start an ICO](https://github.com/AzureKn1ght/ICO)
+- [Create a DAO](https://github.com/AzureKn1ght/DAO-Tutorial)
+- [And so much more!](https://github.com/AzureKn1ght?tab=repositories)
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div id="header" align="center">
+  <h3>:rocket:</h3>
+  <h3>
+    <a href="https://www.linkedin.com/in/philsonnah/" target="_blank">
+      hire me today!
+    </a>
+  </h3>
+</div>
