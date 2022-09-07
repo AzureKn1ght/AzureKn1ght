@@ -46,7 +46,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :seedling: Actively exploring, learning, and building smart contracts and decentralized applications on various blockchains. 
 
-- :zap: In my free time, I do projects on Buildspace, study with LearnWeb3, enjoy photography, and lifting weights! 
+- :zap: In my free time, I build on Buildspace, study with LearnWeb3, enjoy photography, and lift weights at the gym! 
 
 - :mailbox: How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-philsonnah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philsonnah/)
 
