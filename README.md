@@ -86,8 +86,10 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp;  
   <!-- Rust -->       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
-  <!-- AdobeXD -->            
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" height="40"/>&nbsp;
+  <!-- AdobeXD -->
+  <a href="https://adobe.com/xd">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" height="40"/>&nbsp;
+  </a>
 </div>
 
 ---
