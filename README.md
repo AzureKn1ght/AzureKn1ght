@@ -48,7 +48,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: In my free time, I do projects on Buildspace, study with LearnWeb3, enjoy photography, and lifting weights! 
 
-- :mailbox: How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-Philson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philsonnah/)
+- :mailbox: How you can reach me: [![Linkedin Badge](https://img.shields.io/badge/-philsonnah-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philsonnah/)
 
 ---
 
