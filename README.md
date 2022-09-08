@@ -63,33 +63,61 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" height="40"/>&nbsp;
   </a>
   <!-- CSS -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" height="40"/>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" height="40"/>&nbsp;
+  </a>
   <!-- Solidity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" height="40"/>&nbsp;         
+  <a href="https://soliditylang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" height="40"/>&nbsp;       
+  </a>
   <!-- NodeJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
+  <a href="https://nodejs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" height="40"/>&nbsp;
+  </a>
   <!-- React -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" height="40"/>&nbsp;
+  <a href="https://reactjs.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" height="40"/>&nbsp;
+  </a>
   <!-- NextJS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" height="40"/>&nbsp;
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" height="40"/>&nbsp;
+  </a>
   <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40"/>&nbsp;
+  <a href="https://www.mongodb.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" height="40"/>&nbsp;
+  </a>
   <!-- Express -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" height="40"/>&nbsp;
+  <a href="https://expressjs.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" height="40"/>&nbsp;
+  </a>
   <!-- Angular -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" height="40"/>&nbsp;
+  <a href="https://angular.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" height="40"/>&nbsp;
+  </a>
   <!-- Ionic -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" height="40"/>&nbsp;
+  <a href="https://ionicframework.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" title="Ionic" alt="Ionic" height="40"/>&nbsp;
+  </a>
   <!-- Java -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" height="40"/>&nbsp;
-  <!-- MySQL -->       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" height="40"/>&nbsp;
-  <!-- C -->       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" height="40"/>&nbsp;
+  <a href="https://www.java.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" height="40"/>&nbsp;
+  </a>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" height="40"/>&nbsp;
+  </a>
+  <!-- C -->      
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" height="40"/>&nbsp;
+  </a>
   <!-- Git -->       
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp;  
-  <!-- Rust -->       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp;  
+  </a>
+  <!-- Rust -->     
+  <a href="https://www.rust-lang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
+  </a>
   <!-- AdobeXD -->
   <a href="https://adobe.com/xd">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" title="AdobeXD" alt="AdobeXD" height="40"/>&nbsp;
