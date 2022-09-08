@@ -68,7 +68,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   </a>
   <!-- Solidity -->
   <a href="https://soliditylang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" height="40"/>&nbsp;       
+    <img src="https://skillicons.dev/icons?i=solidity" title="Solidity" alt="Solidity" height="40"/>&nbsp;       
   </a>
   <!-- NodeJS -->
   <a href="https://nodejs.org/">
