@@ -68,7 +68,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   </a>
   <!-- Solidity -->
   <a href="https://soliditylang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" height="40"/>&nbsp;       
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" title="Solidity" alt="Solidity" height="40"/>&nbsp;       
   </a>
   <!-- NodeJS -->
   <a href="https://nodejs.org/">
@@ -80,7 +80,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   </a>
   <!-- NextJS -->
   <a href="https://nextjs.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=nextjs" title="NextJS" alt="NextJS" height="40"/>&nbsp;
   </a>
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/">
@@ -88,7 +88,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   </a>
   <!-- Express -->
   <a href="https://expressjs.com/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express" height="40"/>&nbsp;
   </a>
   <!-- Angular -->
   <a href="https://angular.io/">
@@ -116,7 +116,7 @@ I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcM
   </a>
   <!-- Rust -->     
   <a href="https://www.rust-lang.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" title="Rust" alt="Rust" height="40"/>&nbsp;
+    <img src="https://skillicons.dev/icons?i=rust" title="Rust" alt="Rust" height="40"/>&nbsp;
   </a>
   <!-- AdobeXD -->
   <a href="https://adobe.com/xd">
