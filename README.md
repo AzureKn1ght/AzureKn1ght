@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore
+I am a hobbyist Web3 Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore
 
 - :telescope: I’m currently freelancing and working on personal projects while looking for job opportunities in the web3 space. 
 
